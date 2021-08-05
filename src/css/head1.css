@@ -1,0 +1,15 @@
+#imp p{
+    font-size: 40px;
+}
+#imp div ul li{
+    font-size: 23px;
+}
+
+.black{
+    background-image: url(../img/grass.jpg);
+}
+
+h1,p,li{
+    color: rgb(255, 255, 255);
+}
+
